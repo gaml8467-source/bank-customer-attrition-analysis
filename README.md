@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Attrition & Behavior Analysis
 
-<img src="" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/bank-customer-attrition-analysis/refs/heads/main/bank%20powerbi/photo/details.png" width="900">
 
 ## 📌 Project Overview
 This project presents an end-to-end **Customer Attrition Analysis** for a bank using **Python for data preprocessing** and **Power BI for interactive dashboards**.
@@ -63,30 +63,20 @@ The dataset was prepared using Python:
 
 ### 🏠 Home
 - Navigation buttons between pages
-
+<img src="https://raw.githubusercontent.com/gaml8467-source/bank-customer-attrition-analysis/refs/heads/main/bank%20powerbi/photo/Home.png" width="900">
 ---
 
 ### 📊 Overview
 High-level summary of customer behavior
+<img src="https://raw.githubusercontent.com/gaml8467-source/bank-customer-attrition-analysis/refs/heads/main/bank%20powerbi/photo/details.png" width="900">
 
-- KPIs (Customers, Churn Rate, Transactions, Credit Limit)
-- Customer distribution by Gender
-- Customers by Card Category
-- Churn vs Active comparison
-- Slicers for filtering
 
----
 
 ### 📉 Details
 Deep dive into churn behavior
 
-- Transactions vs Churn
-- Credit utilization analysis
-- Inactive months impact
-- Contacts vs churn behavior
-- Customer segmentation visuals
+<img src="https://raw.githubusercontent.com/gaml8467-source/bank-customer-attrition-analysis/refs/heads/main/bank%20powerbi/photo/overbview.png" width="900">
 
----
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy)
